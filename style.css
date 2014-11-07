@@ -1,0 +1,8 @@
+body {
+	background: url("http://www.hdwallpaperspics.com/wp-content/uploads/2012/11/high-resolution-landscape.jpg") no-repeat; 
+	background-size: cover;
+}
+
+h1:hover {
+	color: white;
+}
